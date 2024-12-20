@@ -1,1 +1,1 @@
-# Employee Management Service fronend using React.
+# Employee Management Service frontend using React.
